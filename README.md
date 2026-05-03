@@ -70,7 +70,7 @@ engineering</code></pre>
 
 <p align="left">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=2800&amp;pause=900&amp;color=FFFFFF&amp;width=900&amp;lines=Feel%20free%20to%20reach%20out%20if%20you%27re%20building;Always%20happy%20to%20contribute%20where%20I%20can :D"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=2800&amp;pause=900&amp;color=FFFFFF&amp;width=900&amp;lines=Feel%20free%20to%20reach%20out%20if%20you%27re%20building;Always%20happy%20to%20contribute%20where%20I%20can."
     alt="Animated contact message"
   />
 </p>
