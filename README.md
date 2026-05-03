@@ -27,7 +27,7 @@ engineering</code></pre>
 <pre><code>volk@github:~/builds$ ./scan_surface.sh
 
 [+] security/
-    |-- AI systems that fail in weird ways
+    |-- AI systems 
     |-- web/app security
 
 [+] backend/
