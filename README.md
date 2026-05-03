@@ -6,7 +6,7 @@
       <img
         src="https://64.media.tumblr.com/56812acf47ccc689979e6228e721af18/09f006f5918e57c9-f0/s1280x1920/e1bb14f204fad9cc4aa884ba2d542dbd80403db8.gif"
         alt="Animated Sukuna profile banner"
-        width="560"
+        width="430"
       />
     </td>
     <td>
