@@ -59,7 +59,7 @@ engineering</code></pre>
 <h1>Some Tools I Have Used or Learned</h1>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,js,go,gcp,c,cpp,arduino,postgres,sqlite,docker,redis,nextjs,matlab,cloudflare,electron,fastapi,rust&amp;perline=9" alt="Python, Java, JavaScript, Go, Google Cloud, C, C++, Arduino, PostgreSQL, SQLite, Docker, Redis, Next.js, MATLAB, Cloudflare, Electron, FastAPI, and Rust" width="670" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,go,gcp,c,cpp,arduino,postgres,sqlite,docker,redis,nextjs,matlab,cloudflare,electron,fastapi,rust&amp;perline=9" alt="Python, Java, JavaScript, Go, Google Cloud, C, C++, Arduino, PostgreSQL, SQLite, Docker, Redis, Next.js, MATLAB, Cloudflare, Electron, FastAPI, and Rust" width="870" />
 </p>
 
 <pre><code>links:
