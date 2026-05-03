@@ -1,3 +1,4 @@
+<h1 align="center">Welcome to my page. I'm Volk</h1>
 
 <table>
   <tr>
@@ -26,67 +27,72 @@ engineering</code></pre>
 <pre><code>volk@github:~/builds$ ./scan_surface.sh
 
 [+] security/
-    ├─ AI systems that fail in weird ways
-    ├─ web/app security
-     
+    |-- AI systems that fail in weird ways
+    |-- web/app security
+
 [+] backend/
-    ├─ APIs
-    ├─ databases
-    ├─ auth flows
-    └─ durable infra
+    |-- APIs
+    |-- databases
+    |-- auth flows
+    `-- durable infra
 
 [+] web/
-    ├─ dashboards
-    ├─ full-stack apps
+    |-- dashboards
+    `-- full-stack apps
 
 [+] physics/
-    ├─ simulations of natural phenomena ex: zonal flows and aerodynamics  
-    └─ CAD
+    |-- simulations of natural phenomena ex: zonal flows and aerodynamics
+    `-- CAD
 
 [+] ml/
-    ├─ RAG pipelines
-    ├─ embeddings
-    └─ evals</code></pre>
+    |-- RAG pipelines
+    |-- embeddings
+    `-- evals</code></pre>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=700&color=00FF41&background=0D111700&width=500&lines=status%3A+building...;status%3A+testing...;status%3A+debugging...;status%3A+shipping..."
-  alt="Animated status"
-/>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=16&amp;duration=1500&amp;pause=700&amp;color=00FF41&amp;background=0D111700&amp;width=500&amp;lines=status%3A%20building...;status%3A%20testing...;status%3A%20debugging...;status%3A%20shipping..."
+    alt="Animated build status"
+  />
+</p>
 
 ### Some Tools I Have Used or Learned
-<h2>Tools</h2>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="56" height="56" hspace="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" alt="PyPI" width="56" height="56" hspace="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="56" height="56" hspace="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="56" height="56" hspace="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" width="56" height="56" hspace="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Google Cloud" width="56" height="56" hspace="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="56" height="56" hspace="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="56" height="56" hspace="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino" width="56" height="56" hspace="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="56" height="56" hspace="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" width="56" height="56" hspace="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="56" height="56" hspace="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" width="56" height="56" hspace="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="56" height="56" hspace="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="MATLAB" width="56" height="56" hspace="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original-wordmark.svg" alt="Cloudflare" width="56" height="56" hspace="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" alt="Electron" width="56" height="56" hspace="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="56" height="56" hspace="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="56" height="56" hspace="6" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="48" height="48" /></td>
+    <td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" alt="PyPI" width="48" height="48" /></td>
+    <td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="48" height="48" /></td>
+    <td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" /></td>
+    <td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" width="48" height="48" /></td>
+    <td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Google Cloud" width="48" height="48" /></td>
+    <td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="48" height="48" /></td>
+    <td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" /></td>
+    <td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino" width="48" height="48" /></td>
+    <td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" width="48" height="48" /></td>
+    <td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="48" height="48" /></td>
+    <td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" /></td>
+    <td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="48" height="48" /></td>
+    <td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="MATLAB" width="48" height="48" /></td>
+    <td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original-wordmark.svg" alt="Cloudflare" width="48" height="48" /></td>
+    <td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" alt="Electron" width="48" height="48" /></td>
+    <td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48" /></td>
+    <td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="48" height="48" /></td>
+  </tr>
+</table>
 
 <pre><code>links:
   research site:  https://solvance.ai/
-  google scholar: https://scholar.google.com/citations?user=RIX3Cn0AAAAJ&hl=en
-  linkedin:  https://www.linkedin.com/in/pukaphol-thienpreecha-a92999249/
-  email:   volk_thienpreecha@berkeley.edu</code></pre>
+  google scholar: https://scholar.google.com/citations?user=RIX3Cn0AAAAJ&amp;hl=en
+  linkedin:       https://www.linkedin.com/in/pukaphol-thienpreecha-a92999249/
+  email:          volk_thienpreecha@berkeley.edu</code></pre>
 
-<h3>
+<p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=FFFFFF&width=900&lines=Feel+free+to+reach+out+if+you%27re+building;Always+happy+to+contribute+where+I+can 😊."
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=2800&amp;pause=900&amp;color=FFFFFF&amp;width=900&amp;lines=Feel%20free%20to%20reach%20out%20if%20you%27re%20building;Always%20happy%20to%20contribute%20where%20I%20can."
+    alt="Animated contact message"
   />
-</h3>
+</p>
